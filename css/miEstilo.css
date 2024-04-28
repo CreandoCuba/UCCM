@@ -5,8 +5,19 @@
     transition: 0.5s;
 }
 
-.topbar .redes i:hover {
+.topbar .redes svg {
+    transition: ease-out;
+    transition: 0.5s;
+}
+
+.topbar .redes i:hover{
     color: #005187;
+    transition: ease;
+    transition-duration: 0.3s;
+}
+
+.topbar .redes svg:hover{
+    fill: #005187;
     transition: ease;
     transition-duration: 0.3s;
 }
