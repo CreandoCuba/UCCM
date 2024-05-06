@@ -207,8 +207,8 @@
     max-height: 900px !important;
 }
 .noticia-card{
-    min-height: 200px;
-    max-height: 500px;
+    min-height: 300px !important;
+    max-height: 300px !important;
 }
 .dropdown-item.active, .dropdown-item:active {
     color: #fff !important;
